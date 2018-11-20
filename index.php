@@ -61,7 +61,19 @@ $xmlstring = file_get_contents("questionsX.xml")
  $_SESSION["totalQuestions"]=6;
 ?>
 
-
+<form action="index.php" method="post">
+    <?php 
+        if ($_SESSION["flag"]=="false"){ ?>
+            <h2>Quiz time!</h2>
+                <div class = "container">
+                    <div class="row">
+                        <div class="texta">
+                        <input id="start" class="btn" type="submit" value="start" name="start"/>
+                        </div>
+                    </div>
+                </div>
+       <?php }?>
+</form>       
 
 <div class="footer">
     <button id="myButton"><a href="#top" style="color: white">Top</a></button>
