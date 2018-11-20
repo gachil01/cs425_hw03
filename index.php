@@ -19,6 +19,15 @@ session_start();
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="common.css">
 </head>
+
+<?php
+$xmlstring = file_get_contents("questionsX.xml")
+?>
+
+<?phpif(!isset($_SESSION["flag"])){
+    $_SESSION["flag"]="false";
+}    ?>
+
 <body>
 <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
   <div class="collapse navbar-collapse" id="navbarNav">
@@ -40,6 +49,19 @@ session_start();
     <h1>Quiz Game</h1>
   </div>
 </div>
+
+<?php
+ if(isset($_POST["start"])){
+    $_SESSION["questionNumber"]=1;
+    $_SESSION["stage"]=1;
+    $_SESSION["flag"]="true";
+    $_SESSION["answers"]=array();
+    $_SESSION["difficulty"]=array();
+ }
+ $_SESSION["totalQuestions"]=6;
+?>
+
+
 
 <div class="footer">
     <button id="myButton"><a href="#top" style="color: white">Top</a></button>
