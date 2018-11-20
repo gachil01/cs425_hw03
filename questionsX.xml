@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<level>
+<item>
+    <question>How does Harry manage to breathe underwater during the second task of the Triwizard Tournament?</question>
+    <answer>He eats Gillyweed</answer>
+    <answer>He kisses a Mermaid</answer>
+    <answer>He transfigures into a shark</answer>
+    <correct>He eats Gillyweed</correct>
+</item>
+
+<item>
+    <question>What is the name of Fred and George's joke shop?</question>
+    <answer>Weasley Joke Emporium</answer>
+    <answer>Weasleys' Wizard Wheezes</answer>
+    <answer>Zonko's Joke Shop</answer>
+    <correct>Weasleys' Wizard Wheezes</correct>
+</item>
+
+<item>
+    <question>Which of these is NOT one of the Unforgivable Curses?</question>
+    <answer>Sectumsempra</answer>
+    <answer>Avada Kedavra</answer>
+    <answer>Imperius Curse</answer>
+    <correct>Sectumsempra</correct>
+</item>
+
+<item>
+    <question>Who played Lord Voldemort in the movies?</question>
+    <answer>Gary Oldman</answer>
+    <answer>Ralph Fiennes</answer>
+    <answer>Jeremy Irons</answer>
+    <correct>Ralph Fiennes</correct>
+</item>
+
+<item>
+    <question>Who guards the entrance to the Gryffindor common room?</question>
+    <answer>The Fat Lady</answer>
+    <answer>The Grey Lady</answer>
+    <answer>The Fat Friar</answer>
+    <correct>The Fat Lady</correct>
+</item>
+
+<item>
+    <question>What does Ron see in the Mirror of Erised?</question>
+    <answer>Himself kissing Hermione</answer>
+    <answer>Himself holding the Quidditch Cup</answer>
+    <answer>Himself with lots of money</answer>
+    <correct>Himself holding the Quidditch Cup</correct>
+</item>
+
+<item>
+    <question>Who is NOT a member of the Order of the Phoenix?</question>
+    <answer>Cornelius Fudge</answer>
+    <answer>Professor Snape</answer>
+    <answer>Mad-Eye Moody</answer>
+    <correct>Cornelius Fudge</correct>
+</item>
+
+<item>
+    <question>Who played Ron Weasley in the movies?</question>
+    <answer>Kieran Culkin</answer>
+    <answer>Rupert Grint</answer>
+    <answer>Tyler Hoechlin</answer>
+    <correct>Rupert Grint</correct>
+</item>
+
+<item>
+    <question>What does O.W.L. stand for?</question>
+    <answer>Ordinary Wizarding Level</answer>
+    <answer>Official Wizarding Level</answer>
+    <answer>Outsanding Wizard Learning</answer>
+    <correct>Ordinary Wizarding Level</correct>
+</item>
+
+<item>
+    <question>A wizard who cannot do magic is known as a:</question>
+    <answer>Bleaker</answer>
+    <answer>Duddle</answer>
+    <answer>Squib</answer>
+    <correct>Squib</correct>
+</item>
+
+<item>
+    <question>What does the spell 'Obliviate' do?</question>
+    <answer>Makes objects invisible</answer>
+    <answer>Removes parts of someone's memory</answer>
+    <answer>Destroys objects</answer>
+    <correct>Removes parts of someone's memory</correct>
+</item>
+
+<item>
+    <question>What does Dumbledore tell Harry he sees in the Mirror of Erised?</question>
+    <answer>Himself holding a pair of socks</answer>
+    <answer>Himself ruling the world</answer>
+    <answer>Himself as a cat</answer>
+    <correct>Himself holding a pair of socks</correct>
+</item>
+
+<item>
+    <question>Where does Hermione brew her first batch of Polyjuice Potion?</question>
+    <answer>The room of requirement</answer>
+    <answer>The Hogwarts Kitchen</answer>
+    <answer>Moaning Myrtle's Bathroom</answer>
+    <correct>Moaning Myrtle's Bathroom</correct>
+</item>
+
+<item>
+    <question>What does one say to close the Marauder's Map and make it blank again?</question>
+    <answer>Mischief Managed</answer>
+    <answer>All Done</answer>
+    <answer>Hello Professor</answer>
+    <correct>Mischief Managed</correct>
+</item>
+
+<item>
+    <question>Who directed 'Harry Potter and the Philosopher's Stone'?</question>
+    <answer>David Yates</answer>
+    <answer>Chris Columbus</answer>
+    <answer>Mike Newell</answer>
+    <correct>Chris Columbus</correct>
+</item>
+
+<item>
+    <question>The three kinds of balls used in Quidditch are Bludgers, Snitches, and...</question>
+    <answer>Quaffles</answer>
+    <answer>Wiffles</answer>
+    <answer>Boccis</answer>
+    <correct>Quaffles</correct>
+</item>
+
+<item>
+    <question>Who has been stealing Harry's letters from Ron and Hermione at the beginning of 'Harry Potter and the Chamber of Secrets'?</question>
+    <answer>The Dursleys</answer>
+    <answer>Draco Malfoy</answer>
+    <answer>Dobby</answer>
+    <correct>Dobby</correct>
+</item>
+
+<item>
+    <question>How many Weasley siblings are there?</question>
+    <answer>5</answer>
+    <answer>7</answer>
+    <answer>3</answer>
+    <correct>7</correct>
+</item>
+
+<item>
+    <question>Where do Harry and Ron eventually find the missing flying Ford Anglia?</question>
+    <answer>Forbidden Forest</answer>
+    <answer>Ministry of Magic</answer>
+    <answer>Room of Requirement</answer>
+    <correct>Forbidden Forest</correct>
+</item>
+
+<item>
+    <question>From what King's Cross platform does the Hogwarts Express leave?</question>
+    <answer>9 3/4</answer>
+    <answer>5 1/2</answer>
+    <answer>9 1/4</answer>
+    <correct>9 3/4</correct>
+</item>
+
+<item>
+    <question>Who played Hermione Granger in the movies?</question>
+    <answer>Emily Blunt</answer>
+    <answer>Emma Watson</answer>
+    <answer>Jennifer Lawrence</answer>
+    <correct>Emma Watson</correct>
+</item>
+
+<item>
+    <question>What's the name of Filch's cat?</question>
+    <answer>Ser Pounce</answer>
+    <answer>Jones</answer>
+    <answer>Mrs. Norris</answer>
+    <correct>Mrs. Norris</correct>
+</item>
+
+<item>
+    <question>Which professor teaches flying lessons?</question>
+    <answer>Madam Hooch</answer>
+    <answer>Sybill Trelawney</answer>
+    <answer>Charity Burbage</answer>
+    <correct>Madam Hooch</correct>
+</item>
+
+<item>
+    <question>What is Peter Pettigrew's nickname?</question>
+    <answer>Ratty</answer>
+    <answer>Scabby</answer>
+    <answer>Wormtail</answer>
+    <correct>Wormtail</correct>
+</item>
+
+<item>
+    <question>Which is NOT a form of currency in the wizarding world?</question>
+    <answer>Doxies</answer>
+    <answer>Sickles</answer>
+    <answer>Knuts</answer>
+    <correct>Doxies</correct>
+</item>
+</level>
+
+<level>
+<item>
+    <question>What does Hermione use to defeat the Devil's Snare plant?</question>
+    <answer>Fire</answer>
+    <answer>Wind</answer>
+    <answer>Expelliarmus</answer>
+    <correct>Fire</correct>
+</item>
+
+<item>
+    <question>Who does Harry eventually discover has given him the Invisibility cloak?</question>
+    <answer>Dobby</answer>
+    <answer>Dumbledore</answer>
+    <answer>Mad-eye Moody</answer>
+    <correct>Dumbledore</correct>
+</item>
+
+<item>
+    <question>Which wizarding school does NOT participate in the Triwizard Tournament?</question>
+    <answer>Ilvermony</answer>
+    <answer>Hogwarts</answer>
+    <answer>Beauxbatons Academy</answer>
+    <correct>Ilvermony</correct>
+</item>
+
+<item>
+    <question>Hermione's muggle parents have what job?</question>
+    <answer>Librarians</answer>
+    <answer>Teachers</answer>
+    <answer>Dentists</answer>
+    <correct>Dentists</correct>
+</item>
+
+<item>
+    <question>What is the model of the first broom Harry ever receives?</question>
+    <answer>Nimbus 2000</answer>
+    <answer>Firebolt</answer>
+    <answer>Hoover</answer>
+    <correct>Nimbus 2000</correct>
+</item>
+
+<item>
+    <question>Who played Dumbledore after the first two movies?</question>
+    <answer>Michael Gambon</answer>
+    <answer>Charles Dance</answer>
+    <answer>Ian Mckellen</answer>
+    <correct>Michael Gambon</correct>
+</item>
+
+<item>
+    <question>Who comes to pick up Harry when he's old enough to go to Hogwarts?</question>
+    <answer>Mrs. Weasley</answer>
+    <answer>Dumbledore</answer>
+    <answer>Hagrid</answer>
+    <correct></correct>
+</item>
+
+<item>
+    <question>What does Mrs. Weasley give Harry for Christmas every year?</question>
+    <answer>A fruit cake</answer>
+    <answer>A new sweater</answer>
+    <answer>Chocolate Frogs</answer>
+    <correct>A new sweater</correct>
+</item>
+
+<item>
+    <question>What are the names of Draco Malfoy's two cronies?</question>
+    <answer>Crabbe and Goyle</answer>
+    <answer>Flint and Boyle</answer>
+    <answer>Huggs and Pucey</answer>
+    <correct>Crabbe and Goyle</correct>
+</item>
+
+<item>
+    <question>What Quidditch position does Harry play?</question>
+    <answer>Chaser</answer>
+    <answer>Seeker</answer>
+    <answer>Keeper</answer>
+    <correct>Seeker</correct>
+</item>
+
+<item>
+    <question>Who played Harry Potter in the movies?</question>
+    <answer>Daniel Radcliffe</answer>
+    <answer>Rupert Grint</answer>
+    <answer>Tom Hardy</answer>
+    <correct>Daniel Radcliffe</correct>
+</item>
+
+<item>
+    <question>Where does Dumbledore's Army meet in 'Harry Potter and the Order of the Phoenix'?</question>
+    <answer>Hagrid's house</answer>
+    <answer>The room of requirement</answer>
+    <answer>The shrieking shack</answer>
+    <correct>The room of requirement</correct>
+</item>
+
+<item>
+    <question>How do you summon a Patronus?</question>
+    <answer>Expecto Patronum</answer>
+    <answer>Accio Patronus</answer>
+    <answer>Patronia Patronus</answer>
+    <correct>Expecto Patronum</correct>
+</item>
+
+<item>
+    <question>Which character does Robert Pattinson play in the Harry Potter movies?</question>
+    <answer>Cedric Diggory</answer>
+    <answer>Viktor Krum</answer>
+    <answer>Neville Longbottom</answer>
+    <correct>Cedric Diggory</correct>
+</item>
+
+<item>
+    <question>Who is the Headmistress of Beauxbatons?</question>
+    <answer>Fleur Delacour</answer>
+    <answer>Madame Maxime</answer>
+    <answer>Madame Rosmerta</answer>
+    <correct>Madame Maxime</correct>
+</item>
+
+<item>
+    <question>Which Hogwarts founder did the Sorting Hat originally belong to?</question>
+    <answer>Godrick Gryffindor</answer>
+    <answer>Salazar Slytherin</answer>
+    <answer>Ravena Ravenclaw</answer>
+    <correct>Godrick Gryffindor</correct>
+</item>
+
+<item>
+    <question>Who directed 'Harry Potter and the Prisoner of Azkaban'?</question>
+    <answer>Mike Newell</answer>
+    <answer>Alfonso Cuaron</answer>
+    <answer>Chris Columbus</answer>
+    <correct>Alfonso Cuaron</correct>
+</item>
+
+<item>
+    <question>What is the name of the dragon that Hagrid hatches from an egg in 'Harry Potter and the Sorcerer's Stone'?</question>
+    <answer>Norbert</answer>
+    <answer>Falcor</answer>
+    <answer>Smaug</answer>
+    <correct>Norbert</correct>
+</item>
+
+<item>
+    <question>What is the name of the disreputable area near Diagon Alley?</question>
+    <answer>London</answer>
+    <answer>The Shadow Path</answer>
+    <answer>Knockturn Alley</answer>
+    <correct>Knockturn Alley</correct>
+</item>
+
+<item>
+    <question>What does "S.P.E.W." stand for?</question>
+    <answer>Society for the promotion of elfish welfare</answer>
+    <answer>Sisterhood of polymorphing elder witches</answer>
+    <answer>Society of protectors for elfish wards</answer>
+    <correct>Society for the promotion of elfish welfare</correct>
+</item>
+
+<item>
+    <question>Who owned the Invisibility cloak before Harry?</question>
+    <answer>Sirius Black</answer>
+    <answer>Remus Lupin</answer>
+    <answer>James Potter</answer>
+    <correct>James Potter</correct>
+</item>
+
+<item>
+    <question>What does Professor Lockhart make Harry do during detention?</question>
+    <answer>Polish Lockhart's trophies</answer>
+    <answer>Answer Lockhart's fan mail</answer>
+    <answer>Catch spiders</answer>
+    <correct>Answer Lockhart's fan mail</correct>
+</item>
+
+<item>
+    <question>What does the spell "Wingardium Leviosa" do?</question>
+    <answer>Levitates an object</answer>
+    <answer>Turns target to stone</answer>
+    <answer>Transform small objects into birds</answer>
+    <correct>Levitates an object</correct>
+</item>
+
+<item>
+    <question>Name the magical creature that can transform itself into a person's worst fear.</question>
+    <answer>Doxy</answer>
+    <answer>Bowtruckle</answer>
+    <answer>Boggart</answer>
+    <correct>Boggart</correct>
+</item>
+
+<item>
+    <question>What kind of animal can Harry talk to and understand?</question>
+    <answer>Dementors</answer>
+    <answer>Snakes</answer>
+    <answer>Dogs</answer>
+    <correct>Snakes</correct>
+</item>
+</level>
+
+<level>
+<item>
+    <question>Name the magical creatures who guard Azkaban prison.</question>
+    <answer>Thestrals</answer>
+    <answer>Dementors</answer>
+    <answer>Boggarts</answer>
+    <correct>Dementors</correct>
+</item>
+
+<item>
+    <question>Who runs Gringott's wizarding bank?</question>
+    <answer>Goblins</answer>
+    <answer>Elves</answer>
+    <answer>Centaurs</answer>
+    <correct>Goblins</correct>
+</item>
+
+<item>
+    <question>The wizard world's police are known as...</question>
+    <answer>Aurors</answer>
+    <answer>Snatchers</answer>
+    <answer>Seekers</answer>
+    <correct>Aurors</correct>
+</item>
+
+<item>
+    <question>What are Voldemort's followers called?</question>
+    <answer>Voldemort's army</answer>
+    <answer>Death Eaters</answer>
+    <answer>Death Dealers</answer>
+    <correct>Death Eaters</correct>
+</item>
+
+<item>
+    <question>What wizarding world slur does Malfoy call Hermione?</question>
+    <answer>Ginger</answer>
+    <answer>Squib</answer>
+    <answer>Mudblood</answer>
+    <correct>Mudblood</correct>
+</item>
+
+<item>
+    <question>What kind of magical beast is hidden in the Chamber of Secrets?</question>
+    <answer>A chimera</answer>
+    <answer>A basilisk</answer>
+    <answer>A gorgon</answer>
+    <correct>A basilisk</correct>
+</item>
+
+<item>
+    <question>Who is the "Half-Blood Prince"?</question>
+    <answer>Lucius Malfoy</answer>
+    <answer>Professor Snape</answer>
+    <answer>Voldemort</answer>
+    <correct>Professor Snape</correct>
+</item>
+
+<item>
+    <question>Which of these is NOT a Deathly Hallow?</question>
+    <answer>The sword of Godrick Gryffindor</answer>
+    <answer>The Elder Wand</answer>
+    <answer>The Invisibility cloak</answer>
+    <correct>The sword of Godrick Gryffindor</correct>
+</item>
+
+<item>
+    <question>Whose wand has the same core as Harry's, thus making the two wands "brothers"?</question>
+    <answer>Voldemort</answer>
+    <answer>James Potter</answer>
+    <answer>Dumbledore</answer>
+    <correct>Voldemort</correct>
+</item>
+
+<item>
+    <question>What mode of transport does Hagrid use to take Harry to his aunt and uncle's house when he's a baby?</question>
+    <answer>Broomstick</answer>
+    <answer>Knight Bus</answer>
+    <answer>Flying Motorcycle</answer>
+    <correct>Flying Motorcycle</correct>
+</item>
+
+<item>
+    <question>Name Harry's owl.</question>
+    <answer>Pigwidgeon</answer>
+    <answer>Hedwig</answer>
+    <answer>Fawkes</answer>
+    <correct>Hedwig</correct>
+</item>
+
+<item>
+    <question>What is the name of the giant spider who used to be Hagrid's pet?</question>
+    <answer>Shelob</answer>
+    <answer>Bralog</answer>
+    <answer>Aragog</answer>
+    <correct>Aragog</correct>
+</item>
+
+<item>
+    <question>What form does Snape's Patronus take?</question>
+    <answer>A doe</answer>
+    <answer>A snake</answer>
+    <answer>A dragon</answer>
+    <correct>A doe</correct>
+</item>
+
+<item>
+    <question>Harry is originally told his parents died how?</question>
+    <answer>A car accident</answer>
+    <answer>A fire</answer>
+    <answer>An explosion</answer>
+    <correct>A car accident</correct>
+</item>
+
+<item>
+    <question>What is the name of the magical potion that makes people tell the truth?</question>
+    <answer>Truth Potion</answer>
+    <answer>Veritaserum</answer>
+    <answer>Truth tongue</answer>
+    <correct>Veritaserum</correct>
+</item>
+
+<item>
+    <question>According to the books, what color are Harry's eyes?</question>
+    <answer>Brown</answer>
+    <answer>Blue</answer>
+    <answer>Green</answer>
+    <correct>Green</correct>
+</item>
+
+<item>
+    <question>Who is the first one to be petrified in 'Harry Potter and the Chamber of Secrets'?</question>
+    <answer>Mrs. Norris</answer>
+    <answer>Perseus Finch</answer>
+    <answer>Ginny Weasley</answer>
+    <correct>Mrs. Norris</correct>
+</item>
+
+<item>
+    <question>The Sorting Hat describes the Slytherin House as:</question>
+    <answer>Crafty</answer>
+    <answer>Cunning</answer>
+    <answer>Evil</answer>
+    <correct>Cunning</correct>
+</item>
+
+<item>
+    <question>Why must Harry stay with the Dursleys until he's of age?</question>
+    <answer>Because of magic that protects him whiles he's with them</answer>
+    <answer>Because of wizarding laws</answer>
+    <answer>Because Dumbledore wants him to stay haumble</answer>
+    <correct>Because of magic that protects him whiles he's with them</correct>
+</item>
+
+<item>
+    <question>What chess piece does Ron play in the game of Wizard's Chess in 'Sorcerer's Stone'?</question>
+    <answer>Bishop</answer>
+    <answer>Pawn</answer>
+    <answer>Knight</answer>
+    <correct>Knight</correct>
+</item>
+
+<item>
+    <question>Harry and the Dursleys live on what street?</question>
+    <answer>Petunia Drive</answer>
+    <answer>Privett Drive</answer>
+    <answer>Poppycock drive</answer>
+    <correct>Privett drive</correct>
+</item>
+
+<item>
+    <question>Who plays Professor McGonagall in the 'Harry Potter' movies?</question>
+    <answer>Maggie Smith</answer>
+    <answer>Judi Dench</answer>
+    <answer>Diana Rigg</answer>
+    <correct>Maggie Smith</correct>
+</item>
+
+<item>
+    <question>When is Harry Potter's birthday?</question>
+    <answer>April 1</answer>
+    <answer>June 6</answer>
+    <answer>July 31</answer>
+    <correct>July 31</correct>
+</item>
+
+<item>
+    <question>The Dark Mark depicts what two things?</question>
+    <answer>A snake and skull</answer>
+    <answer>A spider and want</answer>
+    <answer>A demon and pentagram</answer>
+    <correct>A snake and skull</correct>
+</item>
+
+<item>
+    <question>What magical device is used to store and review memories?</question>
+    <answer>Daydreamer</answer>
+    <answer>Remembrall</answer>
+    <answer>Pensieve</answer>
+    <correct>Pensieve</correct>
+</item>
+</level>
+</quiz>
